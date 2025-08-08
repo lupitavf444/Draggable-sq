@@ -38,9 +38,9 @@ let inputBox, inputBox2;
 let sendButton, sendButton2;
 
 function preload() {
-  myFont = loadFont('typewcond_bold.otf');
-  bgImg = loadImage('background.png');
-  typewriterImg = loadImage('typewriter.png');
+  myFont = loadFont('Draggable-sq/typewcond_bold.otf');
+  bgImg = loadImage('Draggable-sq/background.png');
+  typewriterImg = loadImage('Draggable-sq/typewriter.png');
 }
 
 function setup() {
